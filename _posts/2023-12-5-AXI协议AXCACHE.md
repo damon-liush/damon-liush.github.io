@@ -2,7 +2,7 @@
 layout:     post
 title:      AXI协议AXCACHE
 subtitle:   
-date:       2025-12-05
+date:       2025-12-5
 author:     Damon
 header-img: img/post-bg-swift2.jpg
 catalog: true
