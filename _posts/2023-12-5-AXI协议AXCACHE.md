@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      AXI协议之AxCACHE说明
+title:      AXI协议AXCACHE
 subtitle:   
 date:       2025-12-05
 author:     Damon
