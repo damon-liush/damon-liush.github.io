@@ -2,7 +2,7 @@
 layout:     post
 title:      AXI协议AXCACHE
 subtitle:   
-date:       2025-12-5
+date:       2023-12-5
 author:     Damon
 header-img: img/post-bg-swift2.jpg
 catalog: true
@@ -61,7 +61,7 @@ B位为高表示中间互连组件或其他组件可以延迟事务(transaction)
 
 - Modifiable transactions
   
-  - AxCACHE[1]为高表示事务是Modifiable事务，Modifiable类型的事务
+  - AxCACHE[1]为高表示事务是Modifiable事务，Modifiable类型的事务具有以下行为
   - 多笔事务可以合并成单笔事务。
   - 读事务可以执行预取操作。
   - 写事务可以访问更大的地址空间，通过WSTRB信号确保哪个数据有效。
