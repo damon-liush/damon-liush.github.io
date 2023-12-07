@@ -12,8 +12,6 @@ tags:
 
 # AXI协议之AxCACHE说明
 
-------
-
 AXI总线中使用ARCACHE和AWCACHE两组信号支持系统级高速缓存以及其他性能提升组件（ performance enhancing components）。
 
 ## AXI3协议
