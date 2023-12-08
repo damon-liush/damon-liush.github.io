@@ -1,13 +1,14 @@
 ---
 layout:     post
 title:      AXI协议AXCACHE
-subtitle:   
-date:       2023-12-5
+subtitle:   AXI协议
+date:       2023-12-05
 author:     Damon
 header-img: img/post-bg-swift2.jpg
 catalog: true
 tags:
     - AXI
+    - BUS
 ---
 
 # AXI协议之AxCACHE说明
